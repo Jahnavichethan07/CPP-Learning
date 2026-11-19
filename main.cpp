@@ -8,7 +8,8 @@ int main()
     MultiplyAndLog(6,7);
     Initial();
     std::cout<<"hello world"<<std::endl;
+    std:;cout<<MultiplyAndLog(9,9);
     std::cin.get();
 }
 
-//will have to create more functions and continue solving cpp problems related to aerospace engineering 
+
