@@ -10,3 +10,5 @@ int main()
     std::cout<<"hello world"<<std::endl;
     std::cin.get();
 }
+
+//will have to create more functions and continue solving cpp problems related to aerospace engineering 
