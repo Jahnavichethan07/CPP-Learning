@@ -11,7 +11,7 @@ int main()
     double no2=348.293938;
     cout<<sizeof(apples)<<endl<<sizeof(alphabet)<<endl<<sizeof(ans)<<endl<<sizeof(no)<<endl<<sizeof(no2)<<endl;
 
-    //Functions and headers
+    //Functions and Header Files 
     MultiplyAndLog(3,2);
     MultiplyAndLog(4,5);
     MultiplyAndLog(6,7);
