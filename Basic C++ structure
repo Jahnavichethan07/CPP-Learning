@@ -1,0 +1,10 @@
+//pre processor statement
+#include <iostream.h>
+
+//the program starts executing from the main statement
+int main()
+{
+  //executable statements 
+  cout<<"Hello world";
+  return 0;
+}
